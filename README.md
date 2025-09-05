@@ -26,7 +26,9 @@ VITE_API_URL=http://localhost:4000
 VITE_SOCKET_URL=http://localhost:4000
 ```
 
-## 🚀 Run Locally
+## 🚀 Run Client
+```
 npm install
-npm run dev
-→ http://localhost:5173
+npm run dev   # or: npm start
+# → http://localhost:5173
+```
